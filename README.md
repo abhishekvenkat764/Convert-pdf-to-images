@@ -1,4 +1,5 @@
-datasciencecoursera
+Convert pdf to images.
 ===================
 
-This is my second repository created in order to submit it for the Project evaluation of the Data scientist course from John Hopkins university.
+The purpose of this code is to convert pdf to jpeg or png images locally. This prevents loss of confidential data to the internet, from where it can end up anywhere.
+Using a local code is great for personal data protection.
